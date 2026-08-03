@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Main {
+public class TestePais {
     public static void main(String[] args) {
         Pais brasil = new Pais("BRA", "Brasil", 214000000, 8515767);
         Pais argentina = new Pais("ARG", "Argentina", 45800000, 2780400);
